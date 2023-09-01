@@ -59,8 +59,6 @@ public class Client {
 			}
 			
 			
-			
-			
 			// 메세지 보내기
 			bw.write(str);
 			// 현재 정보량이 매우 적어 전송이 되지 않음(손님을 더 기다리는 중)
